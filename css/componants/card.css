@@ -1,0 +1,21 @@
+.cards{
+    flex-basis: 300px;
+    padding-bottom: 30px;
+    align-content: center;
+    margin: 40px auto;
+    
+}
+
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+justify-content: space-between;
+display: flex;
+align-items: center;
+padding: 15px;
+
+}
+

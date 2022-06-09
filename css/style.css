@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo&family=Bebas+Neue&family=Lora&family=Montserrat:wght@200&family=Roboto+Serif:opsz,wght@8..144,100&display=swap");
+
+@import url("componants/container.css");
+@import url("componants/coffeeowner.css");
+@import url("componants/button.css");
+@import url("componants/banner.css");
+@import url("componants/card.css");
+
+
+
+
+body {
+	background-image: url(images/back.JPG);
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+h1{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 60px;
+	font-weight: bold;
+
+}
+
+
+h2,h3,h4,h5{
+
+	font-family: 'Bebas Neue', cursive;
+	font-size: 30px;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+
+	color: black;
+}
+a:hover{
+	color: yellowgreen;
+}
